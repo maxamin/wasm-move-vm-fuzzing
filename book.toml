@@ -1,0 +1,7 @@
+[book]
+title = "Wasm and Move VM Fuzzing"
+language = "en"
+src = "."
+
+[output.html]
+git-repository-url = "https://github.com/<you>/wasm-move-vm-fuzzing"
